@@ -8,6 +8,8 @@
         <router-link to="/test03">테스트3 - 필드 커스텀 설정</router-link>
         <br/>
         <router-link to="/test04">테스트4 - 자동 완성</router-link>
+        <br/>
+        <router-link to="/test05">테스트5 - 커스텀 디자인</router-link>
 
         <hr/>
         <!-- Page Content -->
